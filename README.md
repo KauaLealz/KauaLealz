@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Meu nome é Kauã Leal Marcondes dos Santos. Tenho 18 anos e nasci em 03/10/2004. Atualmente, trabalho como desenvolvedor backend na empresa Stefanini. Estou animado para compartilhar um pouco mais sobre minha jornada e habilidades técnicas.
+Olá! Meu nome é Kauã Leal Marcondes dos Santos. Tenho 19 anos. Atualmente, trabalho como desenvolvedor backend na empresa Stefanini. Estou animado para compartilhar um pouco mais sobre minha jornada e habilidades técnicas.
 
 ## Experiência Profissional
 
